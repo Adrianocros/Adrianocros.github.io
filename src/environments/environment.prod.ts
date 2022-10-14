@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  //baseUrl: "https://api-systemos.herokuapp.com",
-  baseUrl: "http://localhost:8080/os",
+  baseUrl: "https://bancosystemaos.mysql.dbaas.com.br:3306/bancosystemaos",
+  //baseUrl: "http://localhost:8080/os",
 };
